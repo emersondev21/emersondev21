@@ -1,6 +1,6 @@
 ## Oiiii, eu sou Emerson!
 ### Bem vindo ao meu perfil GitHub
-#### Atualmente estudando Engenharia da Computação na Universidade Federal Rural de Pernambuco (UFRPE-UABJ)
+#### Aluno de Engenharia da Computação na Universidade Federal Rural de Pernambuco (UFRPE-UABJ)
 
 <div style="display: inline_block" align="center">
 <a href="https://github.com/emersongg21">
@@ -8,7 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersongg21&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-## Aprendendo as Ferramentas e Tecnologias:
+## Ferramentas e Tecnologias:
   <div style="display: inline_block" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50" alt="CSS3"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" alt="Git"/>
