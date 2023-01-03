@@ -4,8 +4,8 @@
 
 <div style="display: inline_block" align="center">
 <a href="https://github.com/emersongg21">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersongg21&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersongg21&layout=compact&langs_count=7&theme=gotham"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersongg21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersongg21&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ## Ferramentas e Tecnologias:
