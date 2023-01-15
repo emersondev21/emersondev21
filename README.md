@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0DB50CFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I+am+Emerson+Batista;I'm+from+Brazil;I+am+a+computer+engineering+student+at+UFRPE)](https://git.io/typing-svg)
 
-<div align="center">  
+<!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emersongg21&show_icons=true&count_private=true&hide_border=true&title_color=0DB50CFF&icon_color=0DB50CFF&text_color=c9d1d9&bg_color=0d1117" alt="Karol Araújo github stats" />
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersongg21&layout=compact&hide_border=true&title_color=0DB50CFF&text_color=999999&bg_color=0d1117" />
-</div>
+</div> -->
 
 
 ## 💻 Tech Skills
