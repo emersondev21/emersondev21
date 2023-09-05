@@ -56,7 +56,7 @@
   
   ![giphy](https://user-images.githubusercontent.com/84859510/212221009-c84e291d-6951-4e48-b08e-16b88a2bda41.gif)
   
-  ![snake gif](https://github.com/emersongg21/emersongg21/blob/output/github-contribution-grid-snake.svg)
+  <!--![snake gif](https://github.com/emersongg21/emersongg21/blob/output/github-contribution-grid-snake.svg)-->
   </div>
   
   
