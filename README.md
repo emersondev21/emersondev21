@@ -4,9 +4,9 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emersongg21&show_icons=true&count_private=true&hide_border=true&title_color=0DB50CFF&icon_color=0DB50CFF&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Batista's github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emersongg21&show_icons=true&count_private=true&title_color=0DB50CFF&icon_color=0DB50CFF&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Batista's github stats" />
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersongg21&layout=compact&hide_border=true&title_color=0DB50CFF&text_color=999999&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersongg21&layout=compact&title_color=0DB50CFF&text_color=999999&bg_color=0d1117" />
 </div>
 
 
