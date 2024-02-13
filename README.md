@@ -4,10 +4,10 @@
 
 
 <div align="center">  
-  <a href="https://github.com/emersongg21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersongg21&show_icons=true&count_private=true&title_color=0DB50CFF&icon_color=0DB50CFF&border_color=0DB50CFF&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Batista's github stats" />
+  <a href="https://github.com/emersondev21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersondev21&show_icons=true&count_private=true&title_color=0DB50CFF&icon_color=0DB50CFF&border_color=0DB50CFF&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Batista's github stats" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersongg21&layout=compact&title_color=0DB50CFF&text_color=999999&bg_color=0d1117&border_color=0DB50CFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersondev21&layout=compact&title_color=0DB50CFF&text_color=999999&bg_color=0d1117&border_color=0DB50CFF" />
    <br>
 </div>
 
@@ -52,13 +52,13 @@
   
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=emersongg21&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=emersondev21&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
-  <!--![Visitor Count](https://profile-counter.glitch.me/{emersongg21}/count.svg)-->
+  <!--![Visitor Count](https://profile-counter.glitch.me/{emersondev21}/count.svg)-->
   
   ![giphy](https://user-images.githubusercontent.com/84859510/212221009-c84e291d-6951-4e48-b08e-16b88a2bda41.gif)
   
-   <!-- ![snake gif](https://github.com/emersongg21/emersongg21/blob/output/github-contribution-grid-snake.svg) -->
+   <!-- ![snake gif](https://github.com/emersondev21/emersondev21/blob/output/github-contribution-grid-snake.svg) -->
   
   </div>
   
