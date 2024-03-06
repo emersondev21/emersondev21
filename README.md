@@ -54,7 +54,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=emersondev21&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
-  <!--![Visitor Count](https://profile-counter.glitch.me/{emersondev21}/count.svg)-->
+![Visitor Count](https://profile-counter.glitch.me/{emersondev21}/count.svg)
   
   ![giphy](https://user-images.githubusercontent.com/84859510/212221009-c84e291d-6951-4e48-b08e-16b88a2bda41.gif)
   
