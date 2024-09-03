@@ -11,10 +11,9 @@
   </a>
 </div>
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
-<h2 align="center" underline="none">Sobre mim!</h2>
+<h2 align="center" underline="none">😎 Sobre mim</h2>
   <div style="display: inline_block" align="center">
-    <p>👨‍💻 Engenheiro da Computação | 7º periodo</p>
-    <p>👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas</p>
+    <p>Sou técnico em Análise e Desenvolvimento de sistemas, e atualmente, estou cursando Engenharia da Computação na UFRPE de Belo Jardim, PE. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras!</p>
   </div>
 </div>
 
