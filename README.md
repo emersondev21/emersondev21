@@ -59,7 +59,7 @@
   
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
-  ![giphy](https://user-images.githubusercontent.com/84859510/212221009-c84e291d-6951-4e48-b08e-16b88a2bda41.gif)]
+  ![giphy](https://user-images.githubusercontent.com/84859510/212221009-c84e291d-6951-4e48-b08e-16b88a2bda41.gif)
   
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
