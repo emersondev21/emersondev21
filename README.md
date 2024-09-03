@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&center=true&width=1000&weight=500&size=25&lines=%3CBem+vindo+ao+meu+Github!%2F%3E;%3CEu+sou+Emerson+Batista+%F0%9F%98%8E%2F%3E;%3CSou+estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+pela+UFRPE%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&center=true&width=1000&weight=500&size=25&color=7F3ACE&lines=%3CBem+vindo+ao+meu+Github!%2F%3E;%3CEu+sou+Emerson+Batista+%F0%9F%98%8E%2F%3E;%3CSou+estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+pela+UFRPE%2F%3E)](https://git.io/typing-svg)
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
