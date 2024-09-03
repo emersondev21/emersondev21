@@ -10,7 +10,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emersondev21&layout=compact&langs_count=8&card_width=180&locale=pt-br&theme=midnight-purple" />
   </a>
 </div>
-
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 <h2 align="center" underline="none">Sobre mim!</h2>
   <div style="display: inline_block" align="center">
     <p>👨‍💻 Engenheiro da Computação | 7º periodo</p>
