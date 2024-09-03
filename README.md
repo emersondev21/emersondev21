@@ -62,3 +62,9 @@
   ![giphy](https://user-images.githubusercontent.com/84859510/212221009-c84e291d-6951-4e48-b08e-16b88a2bda41.gif)]
   
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emersondev21/emersondev21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emersondev21/emersondev21/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emersondev21/emersondev21/output/github-contribution-grid-snake.svg">
+</picture>
