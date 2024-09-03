@@ -36,7 +36,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <h2 align="center"> 🛠️ Tools </h2>
   <div style="display: inline_block" align="center">
@@ -49,7 +48,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <h2 align="center"> 📧 Contact </h2>
   <div style="display: inline_block" align="center">
@@ -57,7 +55,6 @@
     <a href="[https://instagram.com/emerson21.dev](https://www.instagram.com/emerson21.dev/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/emerson-batista-937826218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
-<br/>
 <br/>
 <br/>
   
