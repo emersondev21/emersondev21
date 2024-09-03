@@ -4,7 +4,7 @@
 
 <div align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emersondev21&rank_icon=github&locale=pt-br&theme=tokyonight" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emersondev21&rank_icon=github&card_width=225&locale=pt-br&theme=tokyonight" />
   </a>
   <a href="https://github.com/emersondev21/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emersondev21&layout=compact&langs_count=8&card_width=180&locale=pt-br&theme=tokyonight" />
