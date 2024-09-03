@@ -20,7 +20,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <h2 align="center">💻Tech Skills</h2>
   <div style="display: inline_block" align="center" border="none">
