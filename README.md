@@ -14,6 +14,9 @@
 <h2 align="center" underline="none">😎 Sobre mim</h2>
   <div style="display: inline_block" align="center">
     <p>Sou técnico em Análise e Desenvolvimento de sistemas, e atualmente, estou cursando Engenharia da Computação na UFRPE de Belo Jardim, PE. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras!</p>
+    <a href = "mailto:emerson.dev21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="[https://instagram.com/emerson21.dev](https://www.instagram.com/emerson21.dev/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/emerson-batista-937826218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
 </div>
 
@@ -47,7 +50,7 @@
 
 <br/>
 <br/>
-
+<!--
 <h2 align="center"> 📧 Contact </h2>
   <div style="display: inline_block" align="center">
     <a href = "mailto:emerson.dev21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -56,10 +59,12 @@
   
 <br/>
 <br/>
-  
+-->
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
-
+<div style="display: inline_block" align="center">
+  
   ![giphy](https://user-images.githubusercontent.com/84859510/212221009-c84e291d-6951-4e48-b08e-16b88a2bda41.gif)
+</div>
   
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
